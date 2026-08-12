@@ -1,5 +1,3 @@
--- Created by GitHub Copilot in SSMS - review carefully before executing
-
 -- Find all customers whose score is greater than 500
 SELECT *
 FROM [dbo].[customers]

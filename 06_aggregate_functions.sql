@@ -47,6 +47,3 @@ where sales > 15;
 select avg(sales) as sales_amount
 from orders;
 
-select * from customers
-select * from orders
-
